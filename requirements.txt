@@ -1,0 +1,26 @@
+# Data Handling
+pandas
+numpy
+
+# Geospatial Analysis
+geopandas
+geopy
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Time-Series Analysis & Forecasting
+statsmodels
+
+# Machine Learning Models
+scikit-learn
+xgboost
+
+# Parallel Processing
+joblib
+
+# Utility Libraries
+multiprocessing
+
